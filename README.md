@@ -6,6 +6,7 @@
   * 分かち書きにする
 * word2vec用コーパス作成
 * word2vecの学習
+* word2vecを読み込んだ状態でipythonを開く
 
 # setup
 ## mecab, mecab-ipadic, mecab-ipadic-neologdのinstall
